@@ -9,10 +9,8 @@ Interactive dashboard to monitor water quality indicators:
 
 
 ## Folder Structure
-- `data/` : cleaned dataset CSV
 - `dashboard/` : Streamlit app (`app.py`)
 - `notebooks/` : Data cleaning and EDA
-- `visuals/` : Sample plots
 - `requirements.txt` : Python packages
 
 
